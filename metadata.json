@@ -1,0 +1,7 @@
+{
+  "name": "Pesantren Insan Kamil Portal",
+  "description": "A comprehensive information management system for Pesantren Insan Kamil, featuring academic tracking, student creations, a digital library, and an interactive registration system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
